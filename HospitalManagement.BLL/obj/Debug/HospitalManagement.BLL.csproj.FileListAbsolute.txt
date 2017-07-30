@@ -1,0 +1,5 @@
+C:\Users\Deepak\Desktop\Deepak\HospitalManagement\HospitalManagement\HospitalManagement.BLL\bin\Debug\HospitalManagement.BLL.dll
+C:\Users\Deepak\Desktop\Deepak\HospitalManagement\HospitalManagement\HospitalManagement.BLL\bin\Debug\HospitalManagement.BLL.pdb
+C:\Users\Deepak\Desktop\Deepak\HospitalManagement\HospitalManagement\HospitalManagement.BLL\obj\Debug\HospitalManagement.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Deepak\Desktop\Deepak\HospitalManagement\HospitalManagement\HospitalManagement.BLL\obj\Debug\HospitalManagement.BLL.dll
+C:\Users\Deepak\Desktop\Deepak\HospitalManagement\HospitalManagement\HospitalManagement.BLL\obj\Debug\HospitalManagement.BLL.pdb
